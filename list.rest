@@ -1,0 +1,7 @@
+@hostname=http://localhost:5000/
+
+GET {{ hostname }}
+
+### 
+GET {{ hostname }}all
+
